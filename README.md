@@ -1,14 +1,14 @@
 ## python-projects
-Diversidade de programas feitos em Python
+Diversity of programs made in Python
 
-- Ex1: Aluguel de carros
-- Ex2: Classificação triângulo
-- Ex3: Jogo da velha
+- Ex1: Car rental
+- Ex2: Triangle classification
+- Ex3: Tic-tac-toe
 - Ex4: Agenda
-- Ex5: Filas
-- Ex6: Listas (maior, menor, média, pares, soma)
-- Ex7: String (contagem de caracteres)
-- Ex8: Três string (substituição)
-- Ex9: Lista sem repetição
-- Ex10: Matriz (operações com linhas e colunas)
-- Ex11: Dicionários (união, intersecção e diferença)
+- Ex5: Queues
+- Ex6: Lists (largest, smallest, average, pairs, sum)
+- Ex7: String (character count)
+- Ex8: Three string (replacement)
+- Ex9: List without repetition
+- Ex10: Matrix (operations with rows and columns)
+- Ex11: Dictionaries (union, intersection and difference)
